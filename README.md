@@ -107,3 +107,20 @@ CATERING/
 │   ├── public/
 │   └── package.json
 └── requirements.txt
+
+# Python Project Setup Guide
+
+## How to Run the Application
+
+1. Clone the repository:
+   bash
+   git clone the_cahar/zaharCatering
+   cd project
+2. Install dependencies using Pipenv:
+   pipenv install
+3. Activate the virtual environment:
+   pipenv shell
+4. Run the application:
+   python app/main.py
+5. Run tests
+   pytest
